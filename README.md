@@ -49,3 +49,11 @@ Reema Maria Jilson
 
 License
 This project is licensed under the MIT License.
+
+
+![SolarNav](https://github.com/user-attachments/assets/678c97fd-eef7-477d-b502-a3e0e8bcaf77)
+![SolarNav 2](https://github.com/user-attachments/assets/3208db7d-fda2-4a44-aa4d-5d2f82c3b70f)
+![SolarNav 3](https://github.com/user-attachments/assets/353fa904-0989-429d-8b49-5c6501cbaefa)
+
+
+
